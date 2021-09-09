@@ -1,0 +1,17 @@
+{
+    "name": "hocvt/lazy-merge",
+    "authors": [
+        {
+            "name": "Vu Thai Hoc",
+            "email": "vuthaihoc.ttud@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "HocVT\\LazyMerge\\" : "src"
+        }
+    }
+}
